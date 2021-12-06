@@ -1,0 +1,10 @@
+C:\Users\HAMZA JR\source\repos\TP3_Form\bin\Debug\TP3_Form.exe.config
+C:\Users\HAMZA JR\source\repos\TP3_Form\bin\Debug\TP3_Form.exe
+C:\Users\HAMZA JR\source\repos\TP3_Form\bin\Debug\TP3_Form.pdb
+C:\Users\HAMZA JR\source\repos\TP3_Form\obj\Debug\TP3_Form.csproj.AssemblyReference.cache
+C:\Users\HAMZA JR\source\repos\TP3_Form\obj\Debug\TP3_Form.Form1.resources
+C:\Users\HAMZA JR\source\repos\TP3_Form\obj\Debug\TP3_Form.Properties.Resources.resources
+C:\Users\HAMZA JR\source\repos\TP3_Form\obj\Debug\TP3_Form.csproj.GenerateResource.cache
+C:\Users\HAMZA JR\source\repos\TP3_Form\obj\Debug\TP3_Form.csproj.CoreCompileInputs.cache
+C:\Users\HAMZA JR\source\repos\TP3_Form\obj\Debug\TP3_Form.exe
+C:\Users\HAMZA JR\source\repos\TP3_Form\obj\Debug\TP3_Form.pdb
